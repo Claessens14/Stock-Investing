@@ -1,4 +1,4 @@
-# Stock-Investing
+# Stock-Investing 🪐
 This git repo is a mix of lessons and anaylsis tools that I assembled to appeal to any programmer who also has an interest in the equity markets.
 
 ## Market Outlook
